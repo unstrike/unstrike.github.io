@@ -14,4 +14,4 @@ layout:
 
 # Note\_1
 
-Hello world!
+`Hello world!`

@@ -1,3 +1,4 @@
 # Table of contents
 
-* [index.html](README.md)
+* [Note\_1](README.md)
+* [Note\_2](note\_2.md)

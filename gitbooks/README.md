@@ -1,17 +1,17 @@
 ---
 layout:
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
     visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: true
 ---
 
-# index.html
+# Note\_1
 
 Hello world!
